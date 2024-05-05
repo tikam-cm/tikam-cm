@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tikam C Mahawar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [E-Com for Books](https://github.com/TikamCM/NodeLearner)
+- 🔭 I’m currently working with Eaton as Backend Cloud APIs Developer.
 
-- 🌱 I’m currently learning **Node JS and TypeScript**
+- 🌱 I’m currently learning **React Native to design iOS Apps**
 
 - 📫 How to reach me **tikamchandmahawar@hotmail.com**
 
