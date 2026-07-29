@@ -1,19 +1,124 @@
-<h1 align="center">Hi 👋, I'm Tikam C Mahawar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tikam Chand Mahawar</h1>
 
-- 🔭 I’m currently working with BMW Techworks India as PaaS Developer.
+<h3 align="center">
+Senior Full Stack Developer | Cloud & Backend Engineer | Building Scalable Products 🚀
+</h3>
 
-- 🌱 I’m currently learning **React Native to design iOS Apps**
-
-- 📫 How to reach me **tikamchandmahawar@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tikam-chand-mahawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tikam-chand-mahawar" height="30" width="40" /></a>
-<a href="https://instagram.com/makit_cm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makit_cm" height="30" width="40" /></a>
+<p align="center">
+Passionate about designing scalable backend systems, cloud-native applications, and modern web experiences.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tikam-cm&show_icons=true&locale=en&layout=compact" alt="tikam-cm" /></p>
+## 👨‍💻 About Me
+
+- 💼 Senior Full Stack Developer at **BMW TechWorks India**
+- 🚀 Founder of **CraftLayer Studio** – Product Engineering & Growth Consultancy
+- 🔭 Currently building **enterprise portals, cloud-native APIs, and distributed backend systems**
+- 🌱 Currently learning **AWS Solution Architecture, Kubernetes, DevOps & System Design**
+- 💡 Interested in **Backend Architecture, Cloud Computing, AI Integration, and Product Engineering**
+- ⚡ Strong believer in writing scalable, maintainable and production-ready software
+- 🎯 Goal: Become a **Solutions Architect** specializing in AWS & Enterprise Systems
+- 📫 Reach me at **tikamchandmahawar@hotmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/tikam-chand-mahawar" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/makit_cm" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+</a>
+
+<a href="https://craftlayerstudio.com" target="blank">
+<img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="35" width="35"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,linux" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
+</p>
+
+---
+
+## 💼 What I Work On
+
+- Enterprise Backend Development
+- REST APIs & Microservices
+- Authentication (OAuth2, JWT, RBAC)
+- Distributed Systems
+- Cloud-Native Architecture
+- Kubernetes Deployments
+- CI/CD Pipelines
+- API Security
+- Performance Optimization
+- System Design
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tikam-cm&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikam-cm&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=tikam-cm&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Current Focus
+
+- ☁️ AWS Solutions Architecture
+- 🏗️ Enterprise System Design
+- 🚀 Kubernetes & DevOps
+- 🤖 AI-powered Applications
+- 📱 Cross-platform Mobile Development
+- 📚 Continuous Learning
+
+---
+
+> *"Great software isn't just code—it's thoughtful architecture, scalable design, and exceptional user experience."*
