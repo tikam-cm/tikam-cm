@@ -13,7 +13,7 @@ Building scalable backend systems, cloud-native applications and enterprise soft
 ## 👨‍💻 About Me
 
 - 💼 Senior Full Stack Developer at **BMW TechWorks India**
-- 🚀 Founder of **CraftLayer Studio**
+- 🚀 Founder of <a href="https://craftlayerstudio.com/">**CraftLayer Studio**</a>
 - 🔭 Currently building enterprise portals, backend APIs and cloud-native applications
 - 🌱 Currently learning **AWS Solutions Architecture, Kubernetes, DevOps and System Design**
 - 💡 Passionate about Backend Engineering, Cloud Computing and Software Architecture
